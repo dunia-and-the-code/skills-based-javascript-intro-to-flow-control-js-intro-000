@@ -31,7 +31,7 @@ return age > 12 && age < 20 ?
 
 function switchAge(age) {
 switch(age) {
-  case  13, 14, 15, 15, 17, 18, 19 :
+  case  > 12 && < 20 :
     console.log("You are a teenager");
     break;
     default:
