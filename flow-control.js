@@ -4,7 +4,7 @@ if (age >= 13 || age <= 19) {
 } else if (age <= 12 || age > 19) {
 }
 }
-
+basicTeenager(10)
 
 function teenager(age) {
 if (age >=13 || age <= 19) {
